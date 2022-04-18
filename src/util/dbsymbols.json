@@ -1,0 +1,58 @@
+{
+	"symbolss": [
+	  {
+	    "symbol": "MSFT",
+	    "exchange": "XNAS",
+	    "exchangeSuffix": "",
+	    "exchangeName": "Nasdaq All Markets",
+	    "exchangeSegment": "XNGS",
+	    "exchangeSegmentName": "Nasdaq Ngs Global Select Market",
+	    "name": "Microsoft Corporation",
+	    "date": "2022-04-17",
+	    "type": "cs",
+	    "iexId": "IEX_5038523343322D52",
+	    "region": "US",
+	    "currency": "USD",
+	    "isEnabled": true,
+	    "figi": "BBG000BPH459",
+	    "cik": "0000789019",
+	    "lei": "INR2EJN1ERAN0W5ZP974"
+	  },
+	  {
+	    "symbol": "MSGE",
+	    "exchange": "XNYS",
+	    "exchangeSuffix": "",
+	    "exchangeName": "New York Stock Exchange Inc",
+	    "exchangeSegment": "XNYS",
+	    "exchangeSegmentName": "New York Stock Exchange Inc",
+	    "name": "Madison Square Garden Entertainment Corp - Class A",
+	    "date": "2022-04-17",
+	    "type": "cs",
+	    "iexId": "IEX_51524B56384E2D52",
+	    "region": "US",
+	    "currency": "USD",
+	    "isEnabled": true,
+	    "figi": "BBG00L9HLWV8",
+	    "cik": "0001795250",
+	    "lei": null
+	  },
+	  {
+	    "symbol": "MSGM",
+	    "exchange": "XNAS",
+	    "exchangeSuffix": "",
+	    "exchangeName": "Nasdaq All Markets",
+	    "exchangeSegment": "XNCM",
+	    "exchangeSegmentName": "Nasdaq Capital Market",
+	    "name": "Motorsport Games Inc - Class A",
+	    "date": "2022-04-17",
+	    "type": "cs",
+	    "iexId": null,
+	    "region": "US",
+	    "currency": "USD",
+	    "isEnabled": true,
+	    "figi": "BBG00YM466G5",
+	    "cik": "0001821175",
+	    "lei": null
+	  }
+	]
+      }
